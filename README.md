@@ -41,12 +41,6 @@ Examples:
 
 ---
 
-## 🖼 Screenshot
-
-_(Screenshot will be added later)_
-
----
-
 ## 🛠 Roadmap
 
 - 🎨 More clock themes and visual designs
