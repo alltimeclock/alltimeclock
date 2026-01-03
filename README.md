@@ -1,16 +1,24 @@
-## Hi there 👋
+# AllTimeClock ⏱️
 
-<!--
-**alltimeclock/alltimeclock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Live demo:** https://alltimeclock.com
 
-Here are some ideas to get you started:
+**AllTimeClock** is a global clock service that presents world time  
+through **multiple clock designs and visual layouts**.  
+Rather than focusing only on utility, it aims to make global time  
+easy to view, intuitive to compare, and pleasant to look at.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌍 What is AllTimeClock?
+
+- 🕰️ Displays global time zones using various clock styles
+- 🌐 Dedicated pages for cities and time zones
+- 🎨 Designed as a visual clock experience, not just a utility tool
+- 🖥️ Optimized for desktop, mobile, and fullscreen environments
+
+---
+
+## 🧭 How to use
+
+Simply open a URL using the following format:
+
