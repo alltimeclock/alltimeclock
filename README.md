@@ -22,8 +22,7 @@ easy to view, intuitive to compare, and pleasant to look at.
 
 Simply open a URL using the following format:
 
-https://alltimeclock.com/
-<City-or-Timezone>
+https://alltimeclock.com/<City-or-Timezone>
 
 Examples:
 - https://alltimeclock.com/UTC
