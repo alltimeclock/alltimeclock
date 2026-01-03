@@ -25,9 +25,9 @@ Simply open a URL using the following format:
 https://alltimeclock.com/<City-or-Timezone>
 
 Examples:
-- https://alltimeclock.com/UTC
 - https://alltimeclock.com/Seoul
 - https://alltimeclock.com/New-York
+- https://alltimeclock.com/time_zones
 
 ---
 
